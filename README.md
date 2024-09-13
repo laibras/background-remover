@@ -1,4 +1,4 @@
-# Background Removal Script
+# Background Remover
 
 Este é um script em Python para remover o fundo de imagens usando a biblioteca `rembg`. 
 
