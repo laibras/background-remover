@@ -1,17 +1,16 @@
+# Background Removal Script
+
+Este é um script em Python para remover o fundo de imagens usando a biblioteca `rembg`. 
+
 ## Como Usar
 
-1. **Clone este repositório**
+1. **Baixe o código**
 
-   Primeiro, clone o repositório em sua máquina local:
-
-    ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
-    ```
+   Faça o download ou clone este repositório para sua máquina local.
 
 2. **Instale as dependências**
 
-   Certifique-se de que você tem Python instalado. Em seguida, instale as bibliotecas necessárias com o comando:
+   Instale as bibliotecas necessárias executando o seguinte comando:
 
     ```bash
     pip install rembg pillow numpy
@@ -30,15 +29,16 @@
 
 4. **Execute o script**
 
-   Após configurar os caminhos, execute o script com o comando:
+   Abra o script `seu_script.py` em uma IDE ou editor de texto que suporte Python. Certifique-se de definir os caminhos corretos para as pastas de entrada e saída dentro do script.
+
+   Depois, execute o script:
 
     ```bash
     python seu_script.py
     ```
 
-5. **Verifique as imagens processadas**
+5. **Verifique a pasta de saída**
 
-   As imagens com o fundo removido serão salvas na pasta especificada por `output_folder`. Verifique essa pasta para encontrar os arquivos processados.
-
+   As imagens com o fundo removido serão salvas na pasta de saída especificada no script.
 
 
