@@ -4,8 +4,8 @@ import os
 import numpy as np
 import io
 
-input_folder = r'C:\caminho\para\a\pasta\de\entrada'
-output_folder = r'C:\caminho\para\a\pasta\de\saida\semFundo'
+input_folder = r'D:\Downloads\provete_ver'
+output_folder = r'D:\Downloads\provete_ver\semFundo'
 
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
